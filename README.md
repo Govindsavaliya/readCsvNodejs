@@ -1,0 +1,3 @@
+# readCsvNodejs
+
+# `npm i`
